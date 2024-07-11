@@ -1,3 +1,3 @@
 # LAB6-JAVA
-Basic Java code\n
+Basic Java code
 Lab Java 
